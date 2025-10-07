@@ -1,0 +1,2 @@
+2025-10-06 18:45:48,371 - INFO - Imported 'events.csv' as table 'events' with 40 rows.
+2025-10-06 18:45:48,371 - INFO - All CSV imports completed.

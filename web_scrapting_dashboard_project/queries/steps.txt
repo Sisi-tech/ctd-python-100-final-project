@@ -1,0 +1,11 @@
+# Show all tables
+python query.py --list-tables
+
+# Query events from year 2004
+python query.py --year 2004
+
+# Query all stats for player named "Barry Bonds"
+python query.py --player "Barry Bonds"
+
+# Search events containing "home run"
+python query.py --event "home run"
